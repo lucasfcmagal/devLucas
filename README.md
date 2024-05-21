@@ -6,6 +6,8 @@
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https:t.me/Lucasfcmagal)
 
 ![Lucas Magalhaes GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfcmagal&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 ## Tecnologias que uso no dia a dia
 
@@ -23,8 +25,6 @@
 <img align="center" alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 ## Apaixonado por tecnologia, inovação e soluções para mudar a vida das pessoas !!
